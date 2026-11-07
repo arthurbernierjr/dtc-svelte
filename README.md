@@ -2,7 +2,7 @@
 
 A Deeper Than Code frontend example by Arthur Bernier Jr: Svelte 5 (runes), SvelteKit 3 with file-based routing and `load` functions, Vite 8, built as a static site with `@sveltejs/adapter-static` and served by `serve` on Railway.
 
-Live: LIVE_URL_PLACEHOLDER
+Live: https://dtc-svelte-production.up.railway.app
 
 It is the code from the Svelte chapter, built exactly as written: list, show, create, edit and delete todos against a Todos API.
 
